@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = false
+name = "pip_conf_index_global"
+
+[packages]
+numpy="1.26.1"
+baostock="0.8.9"
+PySide2="5.15.1"
+pandas="2.2.2"
+akshare="1.14.77"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
