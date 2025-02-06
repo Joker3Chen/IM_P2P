@@ -1,2 +1,2 @@
-# StockPro
-股票预测软件
+# IM P2P
+IM技术研究
